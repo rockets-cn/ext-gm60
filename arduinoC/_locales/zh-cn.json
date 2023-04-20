@@ -1,0 +1,5 @@
+{
+    "QRCodeScanner.initScanner|block": "初始化二维码扫描器",
+    "QRCodeScanner.readQRCode|block": "读取二维码数据"
+  }
+  

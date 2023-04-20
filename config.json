@@ -1,0 +1,26 @@
+{
+	"name": {
+		"zh-cn": "Gravity: 环形二维码扫描识别传感器",
+		"en": "QRCodeScanner"
+	},
+	"description": {
+		"zh-cn": "SEN0486环形二维码扫描识别传感器",
+		"en": "QRCode Scanner Library for DFRobot GM60"
+	},
+	"author": "rockets",
+	"email": "rockets.xia@dfrobot.com",
+	"license": "MIT",
+	"isBoard": false,
+	"id": "gm60",
+	"platform": ["win", "mac", "web"],
+	"version": "0.0.1",
+	"asset": {
+		"arduinoC": {
+			"dir": "arduinoC/",
+			"version": "0.0.1",
+			"board": ["arduino"],
+			"main": "main.ts"
+		}
+	}
+}
+
